@@ -1,4 +1,4 @@
-# Atividade 3: "Caça ao Tesouro no Vetor"
+# Atividade 1: "Caça ao Tesouro no Vetor"
 
 ## Objetivo: Introduzir a necessidade de percorrer um vetor usando laços de repetição (para/for).
 

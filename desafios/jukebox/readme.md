@@ -1,4 +1,4 @@
-# Atividade 4: "O Jukebox Mágico"
+# Atividade 2: "O Jukebox Mágico"
 
 ## Objetivo: Criar um mini-programa interativo que simula uma aplicação real, usando um vetor de strings.
 
