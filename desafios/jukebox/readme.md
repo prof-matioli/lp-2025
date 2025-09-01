@@ -18,4 +18,4 @@ Funcionalidades a Implementar:
 
 4. Pesquisar Música: O usuário digita um nome de música e o programa diz se ela está ou não na playlist.
 
-Estrutura: Ajude-os a montar o menu principal com um escolha-caso (switch-case) ou se-senao (if-else) e, dentro de cada opção, eles desenvolvem a lógica com os vetores.
+Estrutura: Montar o menu principal com um escolha-caso (switch-case) ou se-senao (if-else) e, dentro de cada opção, desenvolver a lógica com os vetores.
